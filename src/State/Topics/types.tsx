@@ -1,0 +1,4 @@
+export const ADD_TOPIC = 'ADD-TOPIC';
+export const TOGGLE_TOPIC_STATUS = 'TOGGLE_TOPIC_STATUS';
+export const TOGGLE_TOPIC_TITLE = 'TOGGLE_TOPIC_TITLE';
+export const REMOVE_TOPIC = 'REMOVE-TOPIC';
